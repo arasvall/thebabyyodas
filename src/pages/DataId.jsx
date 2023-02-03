@@ -1,5 +1,3 @@
-// import { useEffect, useState } from "react";
-// import axios from "axios";
 import {fetchApi} from "./getData";
 import {useLocation, useParams} from "react-router-dom"
 
