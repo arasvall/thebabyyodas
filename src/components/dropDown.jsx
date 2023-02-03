@@ -4,10 +4,6 @@ import { useState } from "react";
 export default function dropDown() {
   const [state, setState] = useState(false);
 
-  //   const toggle = ()=>{
-  //     setState(!state);
-  //   }
-
   return (
     <div
       onClick={() => {
